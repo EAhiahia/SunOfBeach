@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioSetting/AndroidDemo/SunOfBeach/app/src/main/res/layout/activity_flow_layout.xml" value="0.2546875" />
+        <entry key="..\:/AndroidStudioSetting/AndroidDemo/SunOfBeach/app/src/main/res/layout/activity_main.xml" value="0.2557291666666667" />
+        <entry key="..\:/AndroidStudioSetting/AndroidDemo/SunOfBeach/app/src/main/res/layout/activity_main_mvc.xml" value="0.2557291666666667" />
+        <entry key="..\:/AndroidStudioSetting/AndroidDemo/SunOfBeach/app/src/main/res/layout/activity_musics.xml" value="0.2546875" />
+        <entry key="..\:/AndroidStudioSetting/AndroidDemo/SunOfBeach/app/src/main/res/layout/activity_player.xml" value="0.12386018237082067" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
